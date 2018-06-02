@@ -5,3 +5,8 @@ __npm run test : to run the test JS code__
 
 __node deploy.js : to deploy the contract in the Rinkeby network__
 
+Some websites used:
+
+http://remix.ethereum.org
+
+https://infura.io
